@@ -4,14 +4,14 @@ A nifty read for book lovers on the web. Best experienced on the iPad / Chrome.
 
 Brought to you by web people and [Bubblin Superbooks](https://bubbl.in/about) - an online café of books.
 
-## MOBILE FIRST
+## TABLET FIRST
 
-First of its kind, this manuscript (repo) renders into a responsive `mobile-first` book. The manuscript was generated robotically using `nodejs` and `bookiza` and has been outputted into plain HTML, CSS and JavaScript i.e. native elements of web. Live book (demo) is available on the url provided at the top.
+First of its kind, this manuscript (repo) renders into a responsive `tablet-first` book. The manuscript has been generated programmatically using `nodejs` and `bookiza` and outputted as plain HTML, CSS and JavaScript i.e. building blocks of web. Live book (demo) is available on the url provided at the top.
 
-Read a timeless English classic on your favorite browser and share the work online with your friends, family, classmates or just about anyone. For FREE! In fact help us spread the word by sharing this project generously.
+Read a timeless classic on web and share it generously with your friends. It's FREE! In fact please help us spread the word by sharing this book in your network - especially among children.
 
 ## SUPPORT
-Best experienced on 9" iPad but works nearly everywhere - iPhones, Android phones & tablets, Kindle Fire, Desktops, TVs. See [details](https://bubbl.in/support) for more information.
+Best experienced on 9" iPad but works (nearly) everywhere - iPhones, Android phones & tablets, Kindle Fire HD, desktops, TVs, laptops. See [details](https://bubbl.in/support) for more information.
 
 :point_right: Research suggests that books (both physical and electronic) are best experienced on 9" tablets.
 
