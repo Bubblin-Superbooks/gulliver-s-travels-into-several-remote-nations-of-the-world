@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Gulliver's Travels into Several Remote Nations of the World",
-  "type": "text"
+  "type": "text",
+  "book_id": 498
 }
